@@ -3,5 +3,6 @@ The purpose of these codes is to share my ideas of Legendre Polyomial by directl
 gnuplot scripts are used to visualize the data.
 
 
-Please provide me your feedback on the email below, dot replaced by birendra.dhanuk@sxc.edu.np
+Please provide me your feedback on the email below,
+birendra.dhanuk@sxc.edu.np
  
